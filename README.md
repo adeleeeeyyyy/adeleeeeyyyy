@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm adeley</h1>
 <h3 align="center">I Newbie Developer</h3>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mitsuhamiyamizu213&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Mitsuhamiyamizu213)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=adeleeeeyyyy&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/adeleeeeyyyy)
 ![readmebox](https://svgshare.com/i/15xW.svg)
 
 <div>
@@ -28,13 +28,13 @@ most used social media</p>
 <h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
 
 <p align="center">
-  <a href="https://github.com/Mitsuhamiyamizu213"><img src="https://github-readme-stats.vercel.app/api?username=Mitsuhamiyamizu213&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/adeleeeeyyyy"><img src="https://github-readme-stats.vercel.app/api?username=adeleeeeyyyy&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mitsuhamiyamizu213"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitsuhamiyamizu213&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/adeleeeeyyyy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adeleeeeyyyy&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mitsuhamiyamizu213"><img src="https://github-profile-trophy.vercel.app/?username=Mitsuhamiyamizu213&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/adeleeeeyyyy"><img src="https://github-profile-trophy.vercel.app/?username=adeleeeeyyyy&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
