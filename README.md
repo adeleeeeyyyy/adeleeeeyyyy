@@ -9,7 +9,7 @@
 </div>
 
 - 🌱 I’m currently learning **Android SDK, CyberSecurity, JavaScript**
-
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="border-radius: 10px;">
 - 👯 Collaborate with me on **Discord**
 
 - 📫 How to reach me **mitsuhaadly@gmail.com**
