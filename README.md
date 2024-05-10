@@ -1,16 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kibieptr</h1>
+<h1 align="center">Hi 👋, I'm adeley</h1>
 <h3 align="center">I Newbie Developer</h3>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mitsuhamiyamizu213&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Mitsuhamiyamizu213)
 ![readmebox](https://svgshare.com/i/104e.svg)
 
 <div>
-  <h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
+  <h2 align="center">  ~ ABOUT ME ~  </h2>
 </div>
-<div align="center">
-  <img src="https://telegra.ph/file/60c57a2f7106d157eb9da.gif" align="right" width="20%">
-</div>
-
 - 🌱 I’m currently learning **Android SDK, Cybersecurity, JavaScript**
 
 - 👯 Collaborate with me on **Discord**
