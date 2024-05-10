@@ -2,7 +2,7 @@
 <h3 align="center">I Newbie Developer</h3>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mitsuhamiyamizu213&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Mitsuhamiyamizu213)
-[readmebox](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+[readmebox](https://svgshare.com/i/15xW.svg)
 
 <div>
   <h2 align="center">  ~ ABOUT ME ~  </h2>
