@@ -7,7 +7,8 @@
 <div>
   <h2 align="center">  ~ ABOUT ME ~  </h2>
 </div>
-- 🌱 I’m currently learning **Android SDK, Cybersecurity, JavaScript**
+
+- 🌱 I’m currently learning **Android SDK, CyberSecurity, JavaScript**
 
 - 👯 Collaborate with me on **Discord**
 
