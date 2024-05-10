@@ -23,7 +23,7 @@
 most used social media</p>
 
 <p align="center">
-  <a href="https://www.instagram.com/adeleeeeyyyy_" target="_blank"><img src="https://img.shields.io/badge/-adeleeeeyyyy_-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/adeleeeeyyyy" target="_blank"><img src="https://img.shields.io/badge/-adeleeeeyyyy_-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 </div>
 <br>
