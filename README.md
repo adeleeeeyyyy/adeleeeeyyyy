@@ -38,7 +38,7 @@ most used social media</p>
   <a href="https://github.com/adeleeeeyyyy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adeleeeeyyyy&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
-<p style=" display: flex; justify-content: center; ">
+<p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide=css&theme=nightowl&hide_border=false&username=SynchronizesTeams" height="150" alt="languages graph"/>
 </p>
 
