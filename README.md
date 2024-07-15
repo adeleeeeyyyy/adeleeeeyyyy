@@ -2,7 +2,8 @@
 <h3 align="center">I'm Newbie Developer</h3>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=adeleeeeyyyy&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/adeleeeeyyyy)
-![readmebox](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
+<br><br>
 
 <div>
   <h2 align="center">  ~ ABOUT ME ~  </h2>
