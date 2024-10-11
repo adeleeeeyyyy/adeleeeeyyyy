@@ -32,7 +32,7 @@
 
 ###
 
-<p align="center">I'm Adeli from Indonesia<br><br>- 🔭 I’m student of Pelita Nusantara Vocational HighSchool<br>- 📚 I'm currently learning Laravel & Cybersecurity</p>
+<p align="center">I'm Adeli from Indonesia<br><br>- 🔭 I’m student of Pelita Nusantara Vocational HighSchool<br>- 📚 I'm currently learning Laravel, Cybersecurity, and Android Debugging</p>
 
 ###
 
