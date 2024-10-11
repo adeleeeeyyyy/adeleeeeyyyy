@@ -65,9 +65,8 @@
 </div>
 
 ###
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sikrzliuthovy7hyloc3tyqyom&width={width})
-
+###
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
