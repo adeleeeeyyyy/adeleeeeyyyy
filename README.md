@@ -32,7 +32,7 @@
 
 ###
 
-<p align="center">I'm Adeli from Indonesia<br><br>- 🔭 I’m student of Pelita Nusantara Vocational HighSchool<br>- 📚 I'm currently learning Laravel, Cybersecurity, and Android Debugging</p>
+<p align="center">I'm Adeli from Indonesia<br><br>- 🔭 I’m student of Pelita Nusantara Vocational HighSchool<br>- 📚 I'm currently learning Laravel & Cybersecurity</p>
 
 ###
 
@@ -62,11 +62,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sikrzliuthovy7hyloc3tyqyom&count=5)
-###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
