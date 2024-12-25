@@ -80,7 +80,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeleeeeyyyy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<div align=center>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sikrzliuthovy7hyloc3tyqyom&count=7)
-</div>
+
 ###
