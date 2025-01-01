@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://svgshare.com/i/15xW.svg"  />
-</div>
+niw yir niw mi
 
 ###
 
