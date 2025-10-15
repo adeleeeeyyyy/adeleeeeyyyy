@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">I'm Adeli from Indonesia<br><br>- 🔭 I’m student of Pelita Nusantara Vocational HighSchool<br>- 📚 I'm currently learning Laravel & Cybersecurity<br>-🐧 I use arch btw</p>
+<p align="center">I'm Adeli from Indonesia<br><br>- 🔭 I’m student of Pelita Nusantara Vocational HighSchool<br>- 📚 I'm currently learning Go & System Administrator<br>-🐧 I use arch btw</p>
 
 ###
 
