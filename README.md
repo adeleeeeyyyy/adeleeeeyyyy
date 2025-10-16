@@ -28,7 +28,23 @@
 
 ###
 
-<p align="center">I'm Adeli from Indonesia<br><br>- 🔭 I’m student of Pelita Nusantara Vocational HighSchool<br>- 📚 I'm currently learning Go & System Administrator<br>-🐧 I use arch btw</p>
+```
+func main() {
+	adeli := BackendDeveloper{
+		Name:       "✍️ Adly Fahreza",
+		Location:   "🏡 Depok, ID - Indonesia",
+		Occupation: "👨‍💻 Software Engineer",
+		Interests:  []string{"Web Development", "Cybersecurity", "System Administrator", "Linux"},
+		Education: Education{
+			Major:      "Software Engineering",
+			University: "🏫 SMK Plus Pelita Nusantara",
+			Status:     "Final Year",
+		},
+	}
+
+	adeli.Introduce()
+}
+```
 
 ###
 
