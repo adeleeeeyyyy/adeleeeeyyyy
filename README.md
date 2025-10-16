@@ -28,7 +28,7 @@
 
 ###
 
-```
+```Javascript
 func main() {
 	adeli := BackendDeveloper{
 		Name:       "✍️ Adly Fahreza",
