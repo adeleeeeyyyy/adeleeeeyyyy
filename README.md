@@ -37,7 +37,7 @@ func main() {
 		Interests:  []string{"Web Development", "Cybersecurity", "System Administrator", "Linux"},
 		Education: Education{
 			Major:      "Software Engineering",
-			School: "🏫 SMK Plus Pelita Nusantara",
+			School: 	"🏫 SMK Plus Pelita Nusantara",
 			Status:     "Final Year",
 		},
 	}
