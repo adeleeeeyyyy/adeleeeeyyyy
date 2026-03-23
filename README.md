@@ -108,7 +108,3 @@ func main() {
 </div>
 
 ---
-
-<div align="center">
-<sub>made with ❤️ from depok</sub>
-</div>
